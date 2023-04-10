@@ -1,0 +1,15 @@
+C:\Users\crist\dev\csharp\calculator\bin\Debug\net7.0\calculator.exe
+C:\Users\crist\dev\csharp\calculator\bin\Debug\net7.0\calculator.deps.json
+C:\Users\crist\dev\csharp\calculator\bin\Debug\net7.0\calculator.runtimeconfig.json
+C:\Users\crist\dev\csharp\calculator\bin\Debug\net7.0\calculator.dll
+C:\Users\crist\dev\csharp\calculator\bin\Debug\net7.0\calculator.pdb
+C:\Users\crist\dev\csharp\calculator\obj\Debug\net7.0\calculator.csproj.AssemblyReference.cache
+C:\Users\crist\dev\csharp\calculator\obj\Debug\net7.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\dev\csharp\calculator\obj\Debug\net7.0\calculator.AssemblyInfoInputs.cache
+C:\Users\crist\dev\csharp\calculator\obj\Debug\net7.0\calculator.AssemblyInfo.cs
+C:\Users\crist\dev\csharp\calculator\obj\Debug\net7.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\crist\dev\csharp\calculator\obj\Debug\net7.0\calculator.dll
+C:\Users\crist\dev\csharp\calculator\obj\Debug\net7.0\refint\calculator.dll
+C:\Users\crist\dev\csharp\calculator\obj\Debug\net7.0\calculator.pdb
+C:\Users\crist\dev\csharp\calculator\obj\Debug\net7.0\calculator.genruntimeconfig.cache
+C:\Users\crist\dev\csharp\calculator\obj\Debug\net7.0\ref\calculator.dll
